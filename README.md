@@ -1,4 +1,4 @@
-# 𝐂𝐍𝐍 𝐏𝐫𝐨𝐣𝐞𝐜𝐭: 𝐌𝐚𝐥𝐚𝐫𝐢𝐚 𝐂𝐞𝐥𝐥 𝐂𝐥𝐚𝐬𝐬𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐔𝐬𝐢𝐧𝐠 𝐕𝐆𝐆19
+ # 𝐂𝐍𝐍 𝐏𝐫𝐨𝐣𝐞𝐜𝐭: 𝐌𝐚𝐥𝐚𝐫𝐢𝐚 𝐂𝐞𝐥𝐥 𝐂𝐥𝐚𝐬𝐬𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐔𝐬𝐢𝐧𝐠 𝐕𝐆𝐆19
 ![C ell (1)](https://github.com/Tanwar-12/Malaria-Cell-Classification-Using-VGG19/assets/110081008/55e82e50-064e-48bb-a083-21f9547c1d0c)
 
 ## 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧:
@@ -6,10 +6,12 @@ Malaria, a severe and widespread parasitic disease in humans, exhibits clinical 
 
 
 
-### 𝐓𝐨𝐨𝐥𝐬 𝐔𝐬𝐞𝐝:
-Google Colab
+### 𝐓𝐨𝐨𝐥𝐬 𝐔𝐬𝐞𝐝
+* Google Colab
 
 ## 𝐃𝐚𝐭𝐚𝐬𝐞𝐭 𝐒𝐮𝐦𝐦𝐚𝐫𝐲:
+**Link: https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria** 
+
 This dataset comprises 27,560 PNG images of malaria-infected and uninfected cells, grouped into two classes with 13,780 images each.
 
 #### Classes:
