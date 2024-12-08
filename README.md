@@ -17,6 +17,7 @@ This dataset comprises 27,560 PNG images of malaria-infected and uninfected cell
 #### Classes:
 * Parasitized
 * Uninfected
+
 𝐓𝐚𝐬𝐤: 𝐁𝐢𝐧𝐚𝐫𝐲 𝐂𝐥𝐚𝐬𝐬𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧
 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐏𝐡𝐚𝐬𝐞𝐬:
 * Library Importation
